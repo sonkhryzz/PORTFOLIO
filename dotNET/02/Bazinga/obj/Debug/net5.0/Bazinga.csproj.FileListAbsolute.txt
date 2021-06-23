@@ -1,0 +1,16 @@
+C:\workspace\C Sharp\Desafios\.net\02\Bazinga\bin\Debug\net5.0\Bazinga.exe
+C:\workspace\C Sharp\Desafios\.net\02\Bazinga\bin\Debug\net5.0\Bazinga.deps.json
+C:\workspace\C Sharp\Desafios\.net\02\Bazinga\bin\Debug\net5.0\Bazinga.runtimeconfig.json
+C:\workspace\C Sharp\Desafios\.net\02\Bazinga\bin\Debug\net5.0\Bazinga.runtimeconfig.dev.json
+C:\workspace\C Sharp\Desafios\.net\02\Bazinga\bin\Debug\net5.0\Bazinga.dll
+C:\workspace\C Sharp\Desafios\.net\02\Bazinga\bin\Debug\net5.0\ref\Bazinga.dll
+C:\workspace\C Sharp\Desafios\.net\02\Bazinga\bin\Debug\net5.0\Bazinga.pdb
+C:\workspace\C Sharp\Desafios\.net\02\Bazinga\obj\Debug\net5.0\Bazinga.csproj.AssemblyReference.cache
+C:\workspace\C Sharp\Desafios\.net\02\Bazinga\obj\Debug\net5.0\Bazinga.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\C Sharp\Desafios\.net\02\Bazinga\obj\Debug\net5.0\Bazinga.AssemblyInfoInputs.cache
+C:\workspace\C Sharp\Desafios\.net\02\Bazinga\obj\Debug\net5.0\Bazinga.AssemblyInfo.cs
+C:\workspace\C Sharp\Desafios\.net\02\Bazinga\obj\Debug\net5.0\Bazinga.csproj.CoreCompileInputs.cache
+C:\workspace\C Sharp\Desafios\.net\02\Bazinga\obj\Debug\net5.0\Bazinga.dll
+C:\workspace\C Sharp\Desafios\.net\02\Bazinga\obj\Debug\net5.0\ref\Bazinga.dll
+C:\workspace\C Sharp\Desafios\.net\02\Bazinga\obj\Debug\net5.0\Bazinga.pdb
+C:\workspace\C Sharp\Desafios\.net\02\Bazinga\obj\Debug\net5.0\Bazinga.genruntimeconfig.cache

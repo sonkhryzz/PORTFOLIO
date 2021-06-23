@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "SNKseasons/1.0.0": {
+        "runtime": {
+          "SNKseasons.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SNKseasons/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

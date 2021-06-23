@@ -1,0 +1,16 @@
+body{
+    height: 95yh;
+    width: 95;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color:darkred
+}
+
+.margin{
+    padding-top: 2px;
+    padding-bottom: 50px;
+    font-size: 12px;
+    color:black
+}

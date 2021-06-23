@@ -1,0 +1,16 @@
+C:\Users\Christopher\Desktop\agoraVAI!!!\WORKSPACE\PORTFOLIO\dotNET\04\SNK.Bank\bin\Debug\net5.0\SNK.Bank.exe
+C:\Users\Christopher\Desktop\agoraVAI!!!\WORKSPACE\PORTFOLIO\dotNET\04\SNK.Bank\bin\Debug\net5.0\SNK.Bank.deps.json
+C:\Users\Christopher\Desktop\agoraVAI!!!\WORKSPACE\PORTFOLIO\dotNET\04\SNK.Bank\bin\Debug\net5.0\SNK.Bank.runtimeconfig.json
+C:\Users\Christopher\Desktop\agoraVAI!!!\WORKSPACE\PORTFOLIO\dotNET\04\SNK.Bank\bin\Debug\net5.0\SNK.Bank.runtimeconfig.dev.json
+C:\Users\Christopher\Desktop\agoraVAI!!!\WORKSPACE\PORTFOLIO\dotNET\04\SNK.Bank\bin\Debug\net5.0\SNK.Bank.dll
+C:\Users\Christopher\Desktop\agoraVAI!!!\WORKSPACE\PORTFOLIO\dotNET\04\SNK.Bank\bin\Debug\net5.0\ref\SNK.Bank.dll
+C:\Users\Christopher\Desktop\agoraVAI!!!\WORKSPACE\PORTFOLIO\dotNET\04\SNK.Bank\bin\Debug\net5.0\SNK.Bank.pdb
+C:\Users\Christopher\Desktop\agoraVAI!!!\WORKSPACE\PORTFOLIO\dotNET\04\SNK.Bank\obj\Debug\net5.0\SNK.Bank.csproj.AssemblyReference.cache
+C:\Users\Christopher\Desktop\agoraVAI!!!\WORKSPACE\PORTFOLIO\dotNET\04\SNK.Bank\obj\Debug\net5.0\SNK.Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Christopher\Desktop\agoraVAI!!!\WORKSPACE\PORTFOLIO\dotNET\04\SNK.Bank\obj\Debug\net5.0\SNK.Bank.AssemblyInfoInputs.cache
+C:\Users\Christopher\Desktop\agoraVAI!!!\WORKSPACE\PORTFOLIO\dotNET\04\SNK.Bank\obj\Debug\net5.0\SNK.Bank.AssemblyInfo.cs
+C:\Users\Christopher\Desktop\agoraVAI!!!\WORKSPACE\PORTFOLIO\dotNET\04\SNK.Bank\obj\Debug\net5.0\SNK.Bank.csproj.CoreCompileInputs.cache
+C:\Users\Christopher\Desktop\agoraVAI!!!\WORKSPACE\PORTFOLIO\dotNET\04\SNK.Bank\obj\Debug\net5.0\SNK.Bank.dll
+C:\Users\Christopher\Desktop\agoraVAI!!!\WORKSPACE\PORTFOLIO\dotNET\04\SNK.Bank\obj\Debug\net5.0\ref\SNK.Bank.dll
+C:\Users\Christopher\Desktop\agoraVAI!!!\WORKSPACE\PORTFOLIO\dotNET\04\SNK.Bank\obj\Debug\net5.0\SNK.Bank.pdb
+C:\Users\Christopher\Desktop\agoraVAI!!!\WORKSPACE\PORTFOLIO\dotNET\04\SNK.Bank\obj\Debug\net5.0\SNK.Bank.genruntimeconfig.cache

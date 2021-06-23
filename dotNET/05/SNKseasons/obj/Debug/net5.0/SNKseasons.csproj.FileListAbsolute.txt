@@ -1,0 +1,16 @@
+C:\Users\Christopher\Desktop\agoraVAI!!!\WORKSPACE\PORTFOLIO\dotNET\05\SNKseasons\obj\Debug\net5.0\SNKseasons.csproj.AssemblyReference.cache
+C:\Users\Christopher\Desktop\agoraVAI!!!\WORKSPACE\PORTFOLIO\dotNET\05\SNKseasons\obj\Debug\net5.0\SNKseasons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Christopher\Desktop\agoraVAI!!!\WORKSPACE\PORTFOLIO\dotNET\05\SNKseasons\obj\Debug\net5.0\SNKseasons.AssemblyInfoInputs.cache
+C:\Users\Christopher\Desktop\agoraVAI!!!\WORKSPACE\PORTFOLIO\dotNET\05\SNKseasons\obj\Debug\net5.0\SNKseasons.AssemblyInfo.cs
+C:\Users\Christopher\Desktop\agoraVAI!!!\WORKSPACE\PORTFOLIO\dotNET\05\SNKseasons\obj\Debug\net5.0\SNKseasons.csproj.CoreCompileInputs.cache
+C:\Users\Christopher\Desktop\agoraVAI!!!\WORKSPACE\PORTFOLIO\dotNET\05\SNKseasons\bin\Debug\net5.0\SNKseasons.exe
+C:\Users\Christopher\Desktop\agoraVAI!!!\WORKSPACE\PORTFOLIO\dotNET\05\SNKseasons\bin\Debug\net5.0\SNKseasons.deps.json
+C:\Users\Christopher\Desktop\agoraVAI!!!\WORKSPACE\PORTFOLIO\dotNET\05\SNKseasons\bin\Debug\net5.0\SNKseasons.runtimeconfig.json
+C:\Users\Christopher\Desktop\agoraVAI!!!\WORKSPACE\PORTFOLIO\dotNET\05\SNKseasons\bin\Debug\net5.0\SNKseasons.runtimeconfig.dev.json
+C:\Users\Christopher\Desktop\agoraVAI!!!\WORKSPACE\PORTFOLIO\dotNET\05\SNKseasons\bin\Debug\net5.0\SNKseasons.dll
+C:\Users\Christopher\Desktop\agoraVAI!!!\WORKSPACE\PORTFOLIO\dotNET\05\SNKseasons\bin\Debug\net5.0\ref\SNKseasons.dll
+C:\Users\Christopher\Desktop\agoraVAI!!!\WORKSPACE\PORTFOLIO\dotNET\05\SNKseasons\bin\Debug\net5.0\SNKseasons.pdb
+C:\Users\Christopher\Desktop\agoraVAI!!!\WORKSPACE\PORTFOLIO\dotNET\05\SNKseasons\obj\Debug\net5.0\SNKseasons.dll
+C:\Users\Christopher\Desktop\agoraVAI!!!\WORKSPACE\PORTFOLIO\dotNET\05\SNKseasons\obj\Debug\net5.0\ref\SNKseasons.dll
+C:\Users\Christopher\Desktop\agoraVAI!!!\WORKSPACE\PORTFOLIO\dotNET\05\SNKseasons\obj\Debug\net5.0\SNKseasons.pdb
+C:\Users\Christopher\Desktop\agoraVAI!!!\WORKSPACE\PORTFOLIO\dotNET\05\SNKseasons\obj\Debug\net5.0\SNKseasons.genruntimeconfig.cache
