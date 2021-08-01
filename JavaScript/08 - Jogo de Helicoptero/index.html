@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <title>Desert Rescue</title>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="style/main.css" type="text/css">
+    <link rel="shortcut icon" HREF="img/favicon.ico" type="image/x-icon">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+<body>
+    <div id="container">
+
+        <div id="fundo-game">
+
+            <div id="inicio" onclick="start()">
+                <h1> DESERT RESCUE </h1> 
+                <p>
+                    <p id="p-icone"> <img id="setas" src="img/up-arrow.png" alt="Seta Para Cima"> To up.</p>
+                    <p id="p-icone"> <img id="setas" src="img/down-arrow.png" alt="Seta Para Cima"> To down.
+                    </p>
+                    <p id="p-icone"> <img id="setas" src="img/letra-d.png" alt="Use a Letra D para Disparo"> To fire.</p>
+                </p>
+                <p id="iniciar"> START </p>
+            </div> 
+
+        </div> 
+
+    </div> 
+
+    
+    <audio src="sound/somTiro.mp3" preload="auto" id="somDisparo"></audio>
+    <audio src="sound/explosao.mp3" preload="auto" id="somExplosao"></audio>
+    <audio src="sound/musica_fundo.mp3" preload="auto" id="musica"></audio>
+    <audio src="sound/helicoptero.mp3" preload="auto" id="som_helicoptero"></audio>
+    <audio src="sound/caminhao.mp3" preload="auto" id="som_caminhao"></audio>
+    <audio src="sound/gameover.mp3" preload="auto" id="somGameover"></audio>
+    <audio src="sound/perdido.mp3" preload="auto" id="somPerdido"></audio>
+    <audio src="sound/resgate.mp3" preload="auto" id="somResgate"></audio>
+
+    <script type="text/javascript" src="js/jquery-1.11.1.min.js"></script>
+    <script type="text/javascript" src="js/jquery-collision.min.js"></script>
+    <script type="text/javascript" src="js/mecanica-jogo.js"></script>
+
+    
+</body>
+ 
+<div class="margin">Desenvolvido por Son Khryzz, 2021</div>
+
+</html>

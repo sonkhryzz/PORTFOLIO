@@ -1,0 +1,426 @@
+/*Reset html*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+/*Cores Padrão*/
+:root {
+    --vermelho: #E50914;
+    --preto: #141414;
+    --cinza: #A9A9A9;
+    --branco: #FFFF;
+    --marrom: #603A03;
+}
+
+@font-face {
+    font-family: Titulo;
+    src: url(../font/ANODETONOONE.TTF);
+}
+
+h1 {
+    font-family: Titulo;
+    font-size: 40px;
+    color: var(--marrom);
+}
+
+body {
+    background-image: url(../img/fundo.jpg);
+}
+
+#container {
+    width: 950px;
+    height: auto;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#fundo-game {
+    width: 950px;
+    height: 630px;
+    background-image: url(../img/fundo_game.jpg);
+    border-color: var(--cinza);
+    border-style: solid;
+    border-radius: 11px;
+}
+
+#inicio {
+    width: 350px;
+    height: 200px;
+    background-color: var(--branco);
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    text-align: center;
+    padding: 10px;
+    border-color: var(--cinza);
+    border-style: groove;
+    border-radius: 11px;
+
+}
+
+#iniciar {
+    margin-left: auto;
+    margin-right: auto;
+    padding: 5px;
+    font-family: Titulo;
+    color: var(--cinza);
+}
+
+/* Resgate */
+#jogador {
+    width: 256px;
+    height: 66px;
+    position: absolute;
+    left: 8px;
+    top: 179px;
+    background-image: url(../img/resgate-aereo.png);
+
+}
+
+#disparo {
+    width: 50px;
+    height: 8px;
+    position: absolute;
+    background-image: url(../img/disparo.png);
+}
+
+/*inimigo-1*/
+#inimigo-aereo {
+    width: 256px;
+    height: 66px;
+    position: absolute;
+    left: 689px;
+    top: 253px;
+    background-image: url(../img/inimigo-aereo.png);
+
+}
+
+/*inimigo-2*/
+#inimigo-terrestre {
+    width: 165px;
+    height: 70px;
+    position: absolute;
+    left: 775px;
+    top: 447px;
+    background-image: url(../img/inimigo-terrestre.png);
+}
+
+/*Amigo*/
+#soldado {
+    width: 44px;
+    height: 51px;
+    position: absolute;
+    left: 10px;
+    top: 464px;
+    background-image: url(../img/soldado.png);
+}
+
+/*Inimigo 1*/
+#explosaoInimigoAereo {
+    width: 15px;
+    height: 87px;
+    position: absolute;
+}
+
+/*Inimigo 2*/
+#explosaoInimigoTerrestre {
+    width: 15px;
+    height: 87px;
+    position: absolute;
+
+}
+
+#placar {
+    width: 450px;
+    height: 50px;
+    position: absolute;
+    left: 5px;
+    top: 570px;
+}
+
+h2 {
+    font-family: Titulo;
+    font-size: 20px;
+    color: var(--cinza);
+}
+
+#energia {
+    width: 140px;
+    height: 38px;
+    position: absolute;
+    left: 750px;
+    top: 7px;
+}
+
+h3 {
+    font-family: Titulo;
+    font-size: 20px;
+    color: var(--marrom);
+
+}
+
+#setas {
+    background-color: var(--branco);
+    margin-left: auto;
+    margin-right: 5px;
+    padding: 2px;
+    border-color: var(--cinza);
+    border-style: groove;
+    border-radius: 7px;
+
+}
+
+#p-icone {
+    background-color: var(--branco);
+    margin-left: 5px;
+    margin-right: 10px;
+    padding: 2px;
+
+}
+
+
+#fim {
+    width: 350px;
+    height: 180px;
+    background-color: var(--branco);
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 150px;
+    text-align: center;
+    padding: 10px;
+    padding: 2px;
+    border-radius: 7px;
+    border-color: var(--cinza);
+    border-style: groove;
+
+}
+
+#reinicia {
+    margin: 20px;
+    padding: 2px;
+    border-color: var(--cinza);
+    border-style: groove;
+    border-radius: 7px;
+    cursor: pointer;
+}
+
+#p-game-over {
+    margin-top: 20px;
+}
+
+/*Animação Helicoptero de Resgate*/
+.animacao-resgate-aereo {
+    background-image: url(../img/resgate-aereo.png);
+    animation: play .5s steps(2) infinite;
+
+    -webkit-animation: play .5s steps(2) infinite;
+    -moz-animation: play .5s steps(2) infinite;
+    -ms-animation: play .5s steps(2) infinite;
+    -o-animation: play .5s steps(2) infinite;
+}
+
+@keyframes play {
+    from {
+        background-position: 0px;
+    }
+
+    to {
+        background-position: -512px;
+    }
+}
+
+
+@-webkit-keyframes play {
+    from {
+        background-position: 0px;
+    }
+
+    to {
+        background-position: -512px;
+    }
+}
+
+@-moz-keyframes play {
+    from {
+        background-position: 0px;
+    }
+
+    to {
+        background-position: -512px;
+    }
+}
+
+@-ms-keyframes play {
+    from {
+        background-position: 0px;
+    }
+
+    to {
+        background-position: -512px;
+    }
+}
+
+@-o-keyframes play {
+    from {
+        background-position: 0px;
+    }
+
+    to {
+        background-position: -512px;
+    }
+}
+
+/*Animação Inimigo Aéreo*/
+.animacao-inimigo-aereo {
+    background-image: url(../img/inimigo-aereo.png);
+    animation: play .5s steps(2) infinite;
+    -webkit-animation: play .5s steps(2) infinite;
+    -moz-animation: play .5s steps(2) infinite;
+    -ms-animation: play .5s steps(2) infinite;
+    -o-animation: play .5s steps(2) infinite;
+}
+
+/*Animação Amigo*/
+.animacao-soldado {
+    background-image: url(../img/soldado.png);
+    animation: play-soldado .9s steps(12) infinite;
+    -webkit-animation: play-soldado .9s steps(12) infinite;
+    -moz-animation: play-soldado .9s steps(12) infinite;
+    -ms-animation: play-soldado .9s steps(12) infinite;
+    -o-animation: play-soldado .9s steps(12) infinite;
+}
+
+@keyframes play-soldado {
+    from {
+        background-position: 0px;
+    }
+
+    to {
+        background-position: -528px;
+    }
+}
+
+@-webkit-keyframes play-soldado {
+    from {
+        background-position: 0px;
+    }
+
+    to {
+        background-position: -528px;
+    }
+}
+
+@-moz-keyframes play-soldado {
+    from {
+        background-position: 0px;
+    }
+
+    to {
+        background-position: -528px;
+    }
+}
+
+@-ms-keyframes play-soldado {
+    from {
+        background-position: 0px;
+    }
+
+    to {
+        background-position: -528px;
+    }
+}
+
+@-o-keyframes play-soldado {
+    from {
+        background-position: 0px;
+    }
+
+    to {
+        background-position: -528px;
+    }
+}
+
+/*explosão 3*/
+#explosao-soldado {
+    width: 44px;
+    height: 51px;
+    position: absolute;
+}
+
+/*Animação 4*/
+.animacaoAtropeloSoldado {
+    width: 44px;
+    height: 51px;
+    background-image: url(../img/amigo_morte.png);
+    animation: play3 .5s steps(7) infinite;
+    -webkit-animation: play3 .5s steps(7) infinite;
+    -moz-animation: play3 .5s steps(7) infinite;
+    -ms-animation: play3 .5s steps(7) infinite;
+    -o-animation: play3 .5s steps(7) infinite;
+}
+
+@keyframes play3 {
+    from {
+        background-position: 0px;
+    }
+
+    to {
+        background-position: -308px;
+    }
+}
+
+@-webkit-keyframes play3 {
+    from {
+        background-position: 0px;
+    }
+
+    to {
+        background-position: -308px;
+    }
+}
+
+@-moz-keyframes play3 {
+    from {
+        background-position: 0px;
+    }
+
+    to {
+        background-position: -308px;
+    }
+}
+
+@-ms-keyframes play3 {
+    from {
+        background-position: 0px;
+    }
+
+    to {
+        background-position: -308px;
+    }
+}
+
+@-o-keyframes play3 {
+    from {
+        background-position: 0px;
+    }
+
+    to {
+        background-position: -308px;
+    }
+}
+
+.margin{
+    background-color: rgb(168, 157, 58);    
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:black; 
+    width:180px;
+    height:12px;
+    padding:7px, 7px;
+    position: absolute; 
+    bottom: 0; 
+}
